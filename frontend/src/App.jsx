@@ -41,10 +41,10 @@ const fruits = [
 // ============================================================
 
 const accuracy = [
-  { name: "SVM", value: 98.9 },
-  { name: "KNN", value: 95.5 },
-  { name: "Decision Tree", value: 97.6 },
-  { name: "Random Forest", value: 99.9 },
+  { name: "SVM", value: 99.92 },
+  { name: "KNN", value: 99.92 },
+  { name: "Decision Tree", value: 97.19 },
+  { name: "Random Forest", value: 100.00 },
 ];
 
 
